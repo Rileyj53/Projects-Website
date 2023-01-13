@@ -34,7 +34,7 @@ html {
 
 /*Header IMG Begin*/
 #header {
-  background-image: url("Img/Riley1.png");
+  background-image: url("../img/Riley1.png");
   width: 1892px;
   height: 865px;
 }
@@ -51,7 +51,7 @@ html {
 #Education {
   width: 1892px;
   height: 945px;
-  background-image: url("Img/ASU_Location1.png");
+  background-image: url("../img/ASU_Location.png");
 }
 
 #eduimg {
